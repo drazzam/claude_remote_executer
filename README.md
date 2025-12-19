@@ -679,12 +679,6 @@ if not result['success']:
 
 ---
 
-## Version History
-
-- **v1.0.0** (2024-12): Initial release with execute, bash, download, ls, disk endpoints
-
----
-
 ## License
 
 MIT License - Free to use, modify, and distribute.
